@@ -1,5 +1,5 @@
 # TicTacToe_Robot
-(eventually) an AI that plays tic tac toe, I hope!
+An AI that plays tic tac toe! You can beat it, but you have to be very clever. The file is tictac_AI.py. It is a sloppy mess because I am new to all of this, but it works as intended!
 
 tictac.py just plays by randomly choosing a valid spot and hoping for the best. This is just to build the game. You can choose who goes first, and if you want to replay. You need to restart the program to play again while changing who goes first.
 
